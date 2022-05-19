@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/literally-facts/static/css/main.26a71182.css",
+    "main.js": "/literally-facts/static/js/main.5e090ed1.js",
+    "static/js/787.daa413f2.chunk.js": "/literally-facts/static/js/787.daa413f2.chunk.js",
+    "index.html": "/literally-facts/index.html",
+    "main.26a71182.css.map": "/literally-facts/static/css/main.26a71182.css.map",
+    "main.5e090ed1.js.map": "/literally-facts/static/js/main.5e090ed1.js.map",
+    "787.daa413f2.chunk.js.map": "/literally-facts/static/js/787.daa413f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a71182.css",
+    "static/js/main.5e090ed1.js"
+  ]
+}
