@@ -1,0 +1,6 @@
+.factsLi {
+    display: block;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+}

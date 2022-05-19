@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
 
+import { Facts } from './Facts';
+
+
+
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Literally Facts</h1>
+      <blockquote>
+        Literally Facts is "literally" a web app that show's you facts. One of those facts is that you should hire me😉, the other's are just random facts, being fetched from this url: https://uselessfacts.jsph.pl/random.json.
+      </blockquote>
+      <Facts />
     </div>
   );
 }
